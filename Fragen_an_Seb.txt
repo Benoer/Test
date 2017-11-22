@@ -1,0 +1,7 @@
+Fragen an Sebastian zu GitHub [22.11.2017]
+
+- Gibt es die Möglichkeit nachträglich die Ordner in dem die GIT Daten/Projekte liegen zu verschieben?
+- Kann ich mit einzelnen Projekten auch nur offline arbeiten, also zum Beispiel die Vorlesungen auf meinem PC mit dem Netzlaufwerk synchron halten?
+- Wie kann ich einzelnen Projekten einen separates Repositorie (Repo) zuweisen, sodass die Uni Sachen auf dem UniRep bleiben und andere Projekte mit GitHub oder Calyrium synchronisiert werden?
+- Wie kopple ich Accounts und welchen Vorteil habe ich dadurch?
+- Wie stelle ich ein, dass ein Projekt nur von einem Rep gepullt wird aber auf einen anderen nur gepusht wird? (War glaube ich als Beispiel im Buch) Ich will den einen Fork von GitHub holen aber nur zu meinem UniRep pushen, jedoch ab und zu updates von GitHub holen udn evtl. mergen.
